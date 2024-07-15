@@ -23,8 +23,8 @@ MelodyVerse is a sleek, responsive web application for a fictional music streami
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/melodyverse.git
-   cd melodyverse
+   git clone https://github.com/suryasivakumar22/MELODYVERSE-USING-REACT-FRONTEND-API.git
+   cd MELODYVERSE-USING-REACT-FRONTEND-API
    ```
 
 2. Install frontend dependencies:
